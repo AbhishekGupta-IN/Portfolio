@@ -84,7 +84,7 @@ hr {
 /* header */
 
 .hero {
-    padding: 1rem;
+    padding: 0.5rem;
 }
 
 .hero .hero-img {
@@ -129,4 +129,15 @@ hr {
 
 .footer ul {
     padding-inline-start: 0px;
+}
+
+/* projects */
+
+li h1 {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+.list-margin {
+    margin-bottom: 2rem;
 }
